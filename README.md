@@ -4,6 +4,8 @@
 
 练习ACM模式，认准卡码网：[https://kamacoder.com/](https://kamacoder.com/) 
 
+目前本仓库只支持在[Github](https://github.com/youngyangyang04/kamacoder-solutions)上处理PR，所以大家想成为本仓库的contributor，欢迎到[Github](https://github.com/youngyangyang04/kamacoder-solutions)上提交PR。 
+
 * [1.A+B问题I](./problems/0001.A+B问题I.md)
 * [2.A+B问题II](./problems/0002.A+B问题II.md)
 * [3.A+B问题III](./problems/0003.A+B问题III.md)
@@ -29,5 +31,25 @@
 * [23.二叉树的高度](./problems/0023.二叉树的高度.md)
 * [24.最长公共子序列](./problems/0024.最长公共子序列.md)
 * [25.最爱的城市](./problems/0025.最爱的城市.md)
+* [26.不相同的字符串](./problems/0026.不相同的字符串.md)
+* [27.最长增长子序列](./problems/0027.最长增长子序列.md)
+* [28.子序列中的k种字母](./problems/0028.子序列中的k种字母.md) 
+* [29.安排超市](./problems/0029.安排超市.md)
+* [30.字符串解压缩](./problems/0030.字符串解压缩.md)
+* [31.字符串的最大价值](./problems/0031.字符串的最大价值.md)
+* [32.子矩阵的最大面积](./problems/0032.子矩阵的最大面积.md)
+* [33.逛街](./problems/0033.逛街.md)
+* [34.大鱼吃小鱼](./problems/0034.大鱼吃小鱼.md)
+* [35.打印二维数组](./problems/0035.打印二维数组.md)
+* [36.网格路径和](./problems/0036.网格路径和.md)
+* [37.交换字符](./problems/0037.交换字符.md)
+* [38.填充矩阵I](./problems/0038.填充矩阵I.md)
+* [39.求和](./problems/0039.求和.md)
+* [40.到达目的地的最短距离](./problems/0040.到达目的地的最短距离.md)
+* [41.岛屿数量](./problems/0041.岛屿数量.md)
+* [42.路径简化](./problems/0042.路径简化.md)
+* [43.汽水瓶换饮料](./problems/0043.汽水瓶换饮料.md)
+* [44.开发商购买土地](./problems/0044.开发商购买土地.md)
+* [45.虚拟棋盘对战](./problems/0045.虚拟棋盘对战.md)
 
 （持续更新中）
